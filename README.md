@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kdnehihi.kdnehihi" />
-</div>
-
-###
-
 <h1 align="center">Hi there 👋 I'm Daniel Tran</h1>
 
 ###
@@ -26,15 +20,15 @@
 
 <p align="left">
 
-🎓 Computer Science student at the University of Illinois Chicago (UIC)  
+🎓 Computer Science student at the **University of Illinois Chicago (UIC)**  
 
 🤖 Interested in **Machine Learning, NLP, and Large Language Models (LLMs)**  
 
-🔬 Currently researching **Mixture-of-Experts (MoE) architectures** and how they can improve efficiency, specialization, and scalability in modern AI systems  
+🔬 Currently researching **Mixture-of-Experts (MoE) architectures** and how they can improve efficiency and specialization in modern AI systems  
 
 📊 Exploring how MoE can be applied to **multitask learning, multimodal reasoning, and real-world domains such as healthcare AI**  
 
-💻 Building AI systems using **PyTorch and modern ML tooling**  
+💻 Building AI systems using **PyTorch and modern ML tooling**
 
 🎯 Career goal: **Machine Learning Engineer / AI Researcher**
 
@@ -93,25 +87,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 
 </div>
-
-###
-
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kdnehihi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
-
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kdnehihi&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdnehihi&layout=compact&theme=dark"/>
-
-</div>
-
-###
